@@ -85,7 +85,6 @@ class MyClient(discord.Client):
          
          
          
-         
 
 
 intents = discord.Intents.default()
